@@ -100,3 +100,23 @@ button[type="submit"] {
     opacity: 1;
   }
 }
+
+@media screen and (max-width: 375px) {
+  .container {
+    padding: 10px; /* Increase padding for smaller screens */
+  }
+
+  h1 {
+    font-size: 3rem; /* Reduce title font size */
+    margin-bottom: 10px; /* Add smaller margin below the title */
+  }
+
+  input[type="text"] {
+    margin-top: 15px; /* Increase top margin for input field */
+    margin-bottom: 15px; /* Increase bottom margin for input field */
+  }
+
+  button[type="submit"] {
+    margin-top: 15px; /* Increase top margin for button */
+  }
+}
