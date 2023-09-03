@@ -1,4 +1,4 @@
-# Wite Bitte? #
+# Wie Bitte? #
 ### Quickly look up German words via Wikitionary. 
 
 A small app I quickly created to help learn German. Accepts only German words. May add an option to input English.
